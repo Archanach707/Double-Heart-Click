@@ -1,15 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  background-color: #3494e4;
-  color: #fff;
-  font-family: 'Montserrat', sans-serif;
-  display: flex;
-  flex-direction: column;
+  font-family: 'Oswald', sans-serif;
   align-items: center;
-  margin-bottom: 40px;
+  overflow: hidden;
+  margin: 0;
+}
+
+h3 {
+  margin-bottom: 0;
+  text-align: center;
 }
